@@ -1,0 +1,2 @@
+# User Rating Management System Using Linked List
+ This project involves creating a program that manages user ratings for various items using a linked list data structure. The program allows users to insert, update, remove, and query ratings for specific items. It handles commands like adding a new rating, removing a rating, retrieving a specific rating, and calculating the average rating for an item. The project emphasizes the use of dynamic memory allocation and pointer-based manipulation to manage the ratings data.
